@@ -17,3 +17,9 @@ def capitalize(s):
             capitalize_next = True
 
     return result
+
+def Capitalize(S):
+   """НИЧЕГО НЕ понимаю"""
+   return S.title()
+S = input()
+print (Capitalize(S))
