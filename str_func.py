@@ -1,5 +1,6 @@
 def capitalize(s):
     """коммен"""
+    """p0p"""
     result = ""
     capitalize_next = True
 
@@ -19,6 +20,7 @@ def capitalize(s):
     return result
 
 def Capitalize(S):
+    """world"""
    """НИЧЕГО НЕ понимаю"""
    return S.title()
 S = input()
